@@ -10,3 +10,5 @@ In a hotel with 100 rooms there are a number of elves:
 If there are 100 elves who go through the hotel (ordered Type 1-4, 1-4 etc) and all doors 
 are initially closed, how many doors are open when all the elves have walked through the 
 hotel.
+
+See Elves.ipynb for worked solution
